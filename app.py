@@ -12,7 +12,7 @@ from folium.plugins import MarkerCluster
 
 
 from flask import Flask, render_template
-TOKEN = "6d37de55-ad0b-4952-ac28-3765272b728b"
+TOKEN = TOKEN
 
 app = Flask(__name__)
 
